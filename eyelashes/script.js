@@ -58,10 +58,10 @@ function changeImg(){
     }
 }
 
-// function run(){
-//    ind++;
-//     changeImg();
-// };
+ function run(){
+    ind++;
+     changeImg();
+};
 
 nav.addEventListener('mouseover', function(event){
     if(event.target.closest('.nav_link')){
