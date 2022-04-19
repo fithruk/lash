@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mr De Haviland';
+    src: url('MrDeHaviland-Regular.eot');
+    src: local('Mr De Haviland Regular'), local('MrDeHaviland-Regular'),
+        url('MrDeHaviland-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MrDeHaviland-Regular.woff2') format('woff2'),
+        url('MrDeHaviland-Regular.woff') format('woff'),
+        url('MrDeHaviland-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
